@@ -9,11 +9,6 @@
 </a>
 
 <br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Destria-cos&color=7F77DD&style=flat-square&label=Profile+Views)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Destria-cos?style=flat-square&color=1D9E75&label=Followers)](https://github.com/Destria-cos)
-
 </div>
 
 ---
