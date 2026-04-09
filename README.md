@@ -52,15 +52,12 @@ Hi there! I'm **Fadillah Nurwahid Mursid**, a passionate programmer who loves tu
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Destria-cos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=1D9E75&text_color=c9d1d9"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Destria-cos&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&text_color=c9d1d9"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Destria-cos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=7F77DD&text_color=c9d1d9" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Destria-cos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&text_color=c9d1d9" height="170"/>
 
-</div>
+<br/>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Destria-cos&theme=tokyonight&hide_border=true&background=0d1117&ring=7F77DD&fire=D85A30&currStreakLabel=1D9E75" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Destria-cos&theme=tokyonight&hide_border=true&background=0d1117&ring=7F77DD&fire=7F77DD&currStreakLabel=7F77DD" height="170"/>
 
 </div>
 
@@ -69,7 +66,7 @@ Hi there! I'm **Fadillah Nurwahid Mursid**, a passionate programmer who loves tu
 ## 🎯 Personal Traits
 
 ```
-Creative Thinking    ████████████████████░  95%
+Creative Thinking    ████████████████████░░  95%
 Design Sense         ██████████████████████  93%
 Fast Learning        ██████████████████░░░░  90%
 Problem Solving      ████████████████████░░  92%
@@ -83,7 +80,7 @@ Collaboration        █████████████████░░�
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Destria-cos&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Destria-cos&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" />
 
 </div>
 
