@@ -54,12 +54,6 @@ Hi there! I'm **Fadillah Nurwahid Mursid**, a passionate programmer who loves tu
 
 <div align="center">
 
-<img src="https://bad-apple-github-readme.vercel.app/api?show_icons=true&username=Destria-cos&theme=tokyonight&hide_border=true" height="170"/>
-&nbsp;
-<img src="https://tokei.rs/b1/github/Destria-cos?category=code" height="170"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=Destria-cos&theme=tokyonight&hide_border=true&background=0d1117&ring=7F77DD&fire=7F77DD&currStreakLabel=7F77DD" height="170"/>
 
 </div>
