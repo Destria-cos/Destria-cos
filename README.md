@@ -1,4 +1,4 @@
-
+<div align="center">
 
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=200&section=header&text=Fadillah%20Nurwahid%20Mursid&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Programmer%20%C2%B7%20Designer%20%C2%B7%20Builder&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
@@ -10,10 +10,9 @@
 
 <br/>
 
-<!-- Profile Views & Social Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Destria-cos&color=7F77DD&style=flat-square&label=Profile+Views)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/fadillahnurwahid?style=flat-square&color=1D9E75&label=Followers)](https://github.com/fadillahnurwahid)
+[![GitHub followers](https://img.shields.io/github/followers/Destria-cos?style=flat-square&color=1D9E75&label=Followers)](https://github.com/Destria-cos)
 
 </div>
 
@@ -27,7 +26,7 @@ Hi there! I'm **Fadillah Nurwahid Mursid**, a passionate programmer who loves tu
 
 - 🎨 Deeply interested in **UI/UX design**, **visual design**, and **modern web design**
 - ⚡ I believe the best interfaces aren't just built — they're *felt*
-- 🎮 Gaming is one of my favorite hobbies — it sharpens strategic thinking and fuels my competitive spirit
+- 🎮 Gaming is one of my hobbies — it sharpens strategic thinking and fuels my competitive spirit
 - 🏆 Always pushing myself to grow, improve, and become better every single day
 - 🌱 Simple lifestyle, but strong belief in creating impactful and meaningful work
 
@@ -78,9 +77,9 @@ Hi there! I'm **Fadillah Nurwahid Mursid**, a passionate programmer who loves tu
 Creative Thinking    ████████████████████░  95%
 Design Sense         ██████████████████████  93%
 Fast Learning        ██████████████████░░░░  90%
+Problem Solving      ████████████████████░░  92%
 Attention to Detail  █████████████████░░░░░  88%
 Collaboration        █████████████████░░░░░  85%
-Problem Solving      ████████████████████░░  92%
 ```
 
 ---
@@ -114,7 +113,6 @@ Problem Solving      ███████████████████�
 
 <div align="center">
 
-<!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=120&section=footer" width="100%"/>
 
 *Thanks for visiting my profile! Let's build something amazing together.* 🚀
