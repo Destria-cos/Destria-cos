@@ -50,16 +50,6 @@ Hi there! I'm **Fadillah Nurwahid Mursid**, a passionate programmer who loves tu
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Destria-cos&theme=tokyonight&hide_border=true&background=0d1117&ring=7F77DD&fire=7F77DD&currStreakLabel=7F77DD" height="170"/>
-
-</div>
-
----
-
 ## 🎯 Personal Traits
 
 ```
@@ -76,6 +66,14 @@ Collaboration        █████████████████░░�
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Destria-cos&bg_color=0d1117&color=7F77DD&line=1D9E75&point=D85A30&area=true&hide_border=true" alt="Contribution Graph"/>
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Destria-cos&theme=tokyonight&hide_border=true&background=0d1117&ring=7F77DD&fire=7F77DD&currStreakLabel=7F77DD" height="170"/>
 
 </div>
 
