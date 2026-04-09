@@ -76,18 +76,6 @@ Attention to Detail  █████████████████░░�
 Collaboration        █████████████████░░░░░  85%
 ```
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Destria-cos&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&column=4" />
-
-</div>
-
----
-
 ## 🌊 Contribution Graph
 
 <div align="center">
