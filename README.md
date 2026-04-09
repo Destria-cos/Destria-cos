@@ -54,8 +54,9 @@ Hi there! I'm **Fadillah Nurwahid Mursid**, a passionate programmer who loves tu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Destria-cos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=7F77DD&text_color=c9d1d9" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Destria-cos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&text_color=c9d1d9" height="170"/>
+<img src="https://github-stats.as93.net/api?username=Destria-cos&theme=tokyonight&hide_border=true" height="170"/>
+&nbsp;
+<img src="https://github-stats.as93.net/api/top-langs/?username=Destria-cos&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 <br/>
 
