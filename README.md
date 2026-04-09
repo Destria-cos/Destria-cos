@@ -1,4 +1,4 @@
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/102116c8-061c-4377-b1cf-a9d69ea9060a" /><div align="center">
+
 
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=200&section=header&text=Fadillah%20Nurwahid%20Mursid&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Programmer%20%C2%B7%20Designer%20%C2%B7%20Builder&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
