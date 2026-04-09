@@ -58,15 +58,15 @@ Hi there! I'm **Fadillah Nurwahid Mursid**, a passionate programmer who loves tu
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fadillahnurwahid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=1D9E75&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Destria-cos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=1D9E75&text_color=c9d1d9"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadillahnurwahid&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Destria-cos&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&text_color=c9d1d9"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fadillahnurwahid&theme=tokyonight&hide_border=true&background=0d1117&ring=7F77DD&fire=D85A30&currStreakLabel=1D9E75" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Destria-cos&theme=tokyonight&hide_border=true&background=0d1117&ring=7F77DD&fire=D85A30&currStreakLabel=1D9E75" alt="GitHub Streak" />
 
 </div>
 
@@ -89,7 +89,7 @@ Problem Solving      ███████████████████�
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=fadillahnurwahid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Destria-cos&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6" alt="GitHub Trophies"/>
 
 </div>
 
@@ -99,7 +99,7 @@ Problem Solving      ███████████████████�
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fadillahnurwahid&bg_color=0d1117&color=7F77DD&line=1D9E75&point=D85A30&area=true&hide_border=true" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Destria-cos&bg_color=0d1117&color=7F77DD&line=1D9E75&point=D85A30&area=true&hide_border=true" alt="Contribution Graph"/>
 
 </div>
 
